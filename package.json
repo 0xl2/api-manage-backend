@@ -31,7 +31,6 @@
   "dependencies": {
     "@types/body-parser": "^1.19.2",
     "@types/http-status": "^1.1.2",
-    "axios": "^0.27.2",
     "body-parser": "^1.20.0",
     "cors": "^2.8.5",
     "dotenv": "^16.0.1",

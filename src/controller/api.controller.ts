@@ -1,5 +1,4 @@
 import { Request, Response } from 'express';
-import axios from 'axios';
 import { wrapRequestAsync } from '../utils/api';
 import { uResponse } from '../service/types';
 import httpStatus from 'http-status';
